@@ -1,0 +1,21 @@
+[
+    {
+      "id": "tweet-1",
+      "content": "¡Hola a todos! Este es mi primer tweet. #primerTweet",
+      "email": "usuario1@prueba.com",
+      "comments": []
+    },
+    {
+      "id": "tweet-2",
+      "content": "Hoy es un gran día. ¡Disfruten del sol! ☀️",
+      "email": "usuario2@1.com",
+      "comments": []
+    },
+    {
+      "id": "tweet-3",
+      "content": "¡Bienvenidos a Twitter Recargado! Estoy emocionado de compartir mis pensamientos con todos ustedes.",
+      "email": "prueba@prueba.com",
+      "comments": []
+    }
+  ]
+  
